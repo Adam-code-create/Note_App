@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="addNoteBg">#33FF9800</color>
+    <color name="app_bg_1">#F3286D</color>
+    <color name="app_bg_2">#FF9800</color>
+    <color name="app_bg_3">#6922E8</color>
+    <color name="app_bg_4">#0BF4DF</color>
+    <color name="app_bg_5">#CD05EF</color>
+    <color name="app_bg_6">#0629ED</color>
+
+
+    <color name="color_1">#ffffff</color>
+    <color name="color_2">#989696</color>
+    <color name="color_3">#514F4F</color>
+    <color name="color_4">#0C0C00</color>
+    <color name="color_5">#EDA3A3</color>
+    <color name="color_6">#F11111</color>
+    <color name="color_7">#ED1C63</color>
+    <color name="color_8">#673AB7</color>
+    <color name="color_9">#5304E1</color>
+    <color name="color_10">#06D1BE</color>
+    <color name="color_11">#0CDC14</color>
+    <color name="color_12">#FFEB3B</color>
+    <color name="color_13">#FBC113</color>
+    <color name="color_14">#CF7051</color>
+    <color name="color_15">#EF4B17</color>
+
+
+
+
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/notePage"
+        android:icon="@drawable/ic_note"
+        android:title="Notes"/>
+
+    <item android:id="@+id/checkPage"
+        android:icon="@drawable/ic_check_list"
+        android:title="Checks"/>
+</menu>
